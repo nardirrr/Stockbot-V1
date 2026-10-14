@@ -76,12 +76,17 @@ Click Run workflow > Run workflow to perform an on-demand test run. Check your T
 
 ## Future Plans
 
-**Scheduling Fixes**
- Due to the nature of GitHub's YAML, the execution timeframe for this bot isn't always accurate, sometimes by hours. One of the immediate fixes I aim to do, is fix the scheduling errors, in an accessible manner. 
+**Scheduling Fixes:**
 
-**Trend calculations coming in the future**
+  Due to the nature of GitHub's YAML, the execution timeframe for this bot isn't always accurate, sometimes by hours. One of the immediate fixes I aim to do, is fix the scheduling errors, in an accessible manner. 
 
-**Summarise the underlying movement:** Delivers a concise data breakdown explaining **why** the movement occurred, allowing me to digest market conditions in 30 seconds while on the go.
+**Trend calculations coming in the future:**
+
+  Using a percentage (%) change to identify whether the investment is trending Bullish 📈 / Bearish 📉.
+
+**Summarise the underlying movement:** 
+
+  Delivers a concise data breakdown explaining **why** the movement occurred, allowing me to digest market conditions in 30 seconds while on the go.
 
 ## New Features Planned
  - **Email Push Notifications**
