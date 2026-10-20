@@ -82,7 +82,8 @@ Click Run workflow > Run workflow to perform an on-demand test run. Check your T
 
 **Trend calculations coming in the future:**
 
-  Using a percentage (%) change to identify whether the investment is trending Bullish 📈 / Bearish 📉.
+ - Using a percentage (%) change to identify whether the investment is trending Bullish 📈 / Bearish 📉.
+ - Implementing a 1 Month, 3 Month and a YTD trend calculation. To provide a macro insight into the performance of a holding. 
 
 **Summarise the underlying movement:** 
 
