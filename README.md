@@ -1,6 +1,6 @@
 # Financial Market Briefing Telegram Bot
 
-An automated Python service that aggregates financial market movements, calculates key metrics, and delivers structured daily intelligence briefings straight to Telegram via the Telegram Bot API. This bot uses the Github YAML language to automate and schedule it's run, which then gets passed to telegram.
+An automated Python service that aggregates financial market movements, calculates key metrics, and delivers structured daily intelligence briefings straight to Telegram, via the Telegram Bot API. This bot uses the Github YAML language to automate and schedule it's run, which then gets passed to telegram.
 
 **Why I Did This**
 
