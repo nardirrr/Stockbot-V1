@@ -4,7 +4,7 @@ An automated Python service that aggregates financial market movements, calculat
 
 **Why I Did This**
 
-I manage my investments actively, but checking individual positions during a busy morning routine requires deliberate manual interaction. Built-in OS widgets (like Pixel's At a Glance) generally summarise market movements after the market closes, rather than delivering proactive morning intelligence before the trading day begins.
+I manage my investments actively, but checking individual positions during a busy morning routine requires deliberate manual interaction. Built-in mobile widgets (like Pixel's At a Glance) generally summarise market movements after the market closes, rather than delivering proactive morning intelligence before the trading day begins.
 
 I wanted an automated, zero-friction delivery system that:
 - **Pushes directly to my devices:** Dispatches an early morning notification straight to Telegram with zero manual app switching. Due to Telegrams notification system, this message can be reflected onto an appropriate smartwatch /  pair of earbuds.
@@ -78,7 +78,7 @@ Click Run workflow > Run workflow to perform an on-demand test run. Check your T
 
 **Scheduling Fixes:**
 
-  Due to the nature of GitHub's YAML, the execution timeframe for this bot isn't always accurate, sometimes by hours. One of the immediate fixes I aim to do, is fix the scheduling errors, in an accessible manner. 
+  Due to the nature of GitHub's YAML, the execution timeframe for this bot isn't always accurate, sometimes by hours. One of the immediate fixes I aim to do, is fix the scheduling errors.  
 
 **Trend calculations coming in the future:**
 
