@@ -9,10 +9,10 @@ import yfinance as yf
 # This dictionary maps Yahoo Finance ticker symbols to the names you want to see in Telegram.
 # This is an EXAMPLE portfolio of holdings. **PLEASE EDIT ACCORDINGLY**
 PORTFOLIO = {
-    'VWRP.L': 'Vanguard All-World ETF',
     'VALL.L': 'Vanguard Global All-Cap',
-    'SGLN.L': 'Physical Gold ETC',
-    'AAPL': 'Apple Inc.'
+    'SSLN.L': 'Ishares Physical Silver ETC',
+    'SGLN.L': 'Ishares Physical Gold ETC',
+    'GOOGL': 'Alphabet Inc Class A.'
 }
 
 def fetch_market_data() -> str:
